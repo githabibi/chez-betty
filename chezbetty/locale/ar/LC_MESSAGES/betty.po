@@ -104,11 +104,11 @@ msgstr "إبعت الطلب"
 #: chezbetty/templates/user_info.jinja2:45
 #: chezbetty/templates/deposit_complete.jinja2:12
 msgid "Deposit"
-msgstr ""
+msgstr "أضع كمية"
 
 #: chezbetty/templates/deposit.jinja2:21
 msgid "Cash"
-msgstr ""
+msgstr "نقداَ"
 
 #: chezbetty/templates/deposit.jinja2:22
 msgid "Your Deposit Limit: %(limit)s"
@@ -116,21 +116,23 @@ msgstr ""
 
 #: chezbetty/templates/deposit.jinja2:45
 msgid "Bitcoin"
-msgstr ""
+msgstr "بتكوين"
 
 #: chezbetty/templates/deposit.jinja2:56
 msgid "Credit Card"
-msgstr ""
+msgstr "كرت كردت"
 
 #: chezbetty/templates/deposit.jinja2:58 chezbetty/templates/index.jinja2:36
 msgid "Betty now accepts credit cards!"
-msgstr ""
+msgstr "بتي الأن يستقبل كروت الكريدت!"
 
 #: chezbetty/templates/deposit.jinja2:61 chezbetty/templates/index.jinja2:38
 msgid ""
 "To deposit using a credit card, please visit chezbetty.eecs.umich.edu/user "
 "in your browser."
 msgstr ""
+"لكي تضع كمية بكرت الكريدت، الرجاء زيارة chezbetty.eecs.umichedu/user "
+"متصفحك."
 
 #: chezbetty/templates/purchase.jinja2:3 chezbetty/templates/purchase.jinja2:4
 #: chezbetty/templates/user_info.jinja2:39
