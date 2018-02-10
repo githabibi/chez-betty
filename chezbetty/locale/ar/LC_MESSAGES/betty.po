@@ -18,57 +18,57 @@ msgstr ""
 #. Default: User is not enabled. Please contact ${email}.
 #: chezbetty/views.py:136
 msgid "user-not-enabled"
-msgstr ""
+msgstr "العضو غير فعال"
 
 #. Default: Failed to read M-Card. Please try swiping again.
 #: chezbetty/views.py:173
 msgid "mcard-error"
-msgstr ""
+msgstr "مشكلة-إمكارد"
 
 #: chezbetty/views_user.py:165
 msgid "Deposit amount must be greater than $0.00. Card NOT charged."
-msgstr ""
+msgstr "الكمية الموضوعة يجب أن لا تقل عن $0.00. الكرت لم يتقاضى الكمية"
 
 #: chezbetty/templates/deposit_edit.jinja2:3
 #: chezbetty/templates/deposit_edit.jinja2:4
 msgid "Edit Deposit"
-msgstr ""
+msgstr "تغير الكمية الموضوعه"
 
 #: chezbetty/templates/deposit_edit.jinja2:16
 msgid "New Deposit Amount"
-msgstr ""
+msgstr "أضع كمية جديدة"
 
 #: chezbetty/templates/deposit_edit.jinja2:28
 #: chezbetty/templates/deposit.jinja2:28
 msgid "Deposit To Your Account"
-msgstr ""
+msgstr "أضع كمية إلي حسابك"
 
 #: chezbetty/templates/deposit_edit.jinja2:30
 #: chezbetty/templates/deposit.jinja2:30
 msgid "Deposit To %(pool_name)s Pool"
-msgstr ""
+msgstr "أضع كمية إلى مجموعة %(pool_name)"
 
 #: chezbetty/templates/deposit_edit.jinja2:35
 msgid "Delete Deposit"
-msgstr ""
+msgstr "لغي الكمية الموضوعة"
 
 #: chezbetty/templates/item_request.jinja2:2
 msgid "Item Request"
-msgstr ""
+msgstr "طلب غرض"
 
 #: chezbetty/templates/item_request.jinja2:3
 msgid "Request a New Item at Chez Betty"
-msgstr ""
+msgstr "أطلب غرض جديد قي تشيز بتي"
 
 #: chezbetty/templates/item_request.jinja2:10
 #: chezbetty/templates/about.jinja2:13 chezbetty/templates/about.jinja2:105
 #: chezbetty/templates/shame.jinja2:10 chezbetty/templates/items.jinja2:19
 msgid "Home"
-msgstr ""
+msgstr "الرئيسية"
 
 #: chezbetty/templates/item_request.jinja2:15
 msgid "New Item Request"
-msgstr ""
+msgstr "إبدء طلب غرض جديد"
 
 #: chezbetty/templates/item_request.jinja2:20
 msgid ""
@@ -77,6 +77,9 @@ msgid ""
 "normally shop at Costco, Meijer, and Kroger, so if those stores do not carry "
 "it, it is unlikely that Betty will either."
 msgstr ""
+"ادخل غرض تريد ان تري بتي يبيعه. الرجاء إشمل مكان ماإشتريت هذا الغرض من قبل"
+"لكي نستطيع وجوده. عادتاً نشتري اغراضنا من كوسكو، ماير،او كروجر لذالك اذي غرضك "
+"ليس في هذه المحلات غالباً لن توجد عندنا."
 
 #: chezbetty/templates/item_request.jinja2:26
 msgid ""
@@ -87,10 +90,14 @@ msgid ""
 "can reimburse you by just writing a check. Get in touch with us if you are "
 "interested."
 msgstr ""
+"أيضاً حسب نيتك، يمكنك أن تكون المورد لغرض جديد."
+"مثلاً إذا انت تتسوق يمكنك ان تختار بضع من الزائد من الذي تريده, ضفه الي جهاز "
+"بيانات بتي، ثم تري اذا هاذا الغرض يبيع جيداً. العملية سهلة، خصوصاً لأعداد صغيرة "
+"من الأغراض، وسوف نعوضك بشيك. تواصل بنا اذا انت راغب"
 
 #: chezbetty/templates/item_request.jinja2:38
 msgid "Submit Request"
-msgstr ""
+msgstr "إبعت الطلب"
 
 #: chezbetty/templates/deposit.jinja2:3 chezbetty/templates/deposit.jinja2:4
 #: chezbetty/templates/deposit.jinja2:13
