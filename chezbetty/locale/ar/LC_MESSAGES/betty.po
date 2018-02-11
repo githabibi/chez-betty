@@ -46,7 +46,7 @@ msgstr "أضع كمية إلي حسابك"
 #: chezbetty/templates/deposit_edit.jinja2:30
 #: chezbetty/templates/deposit.jinja2:30
 msgid "Deposit To %(pool_name)s Pool"
-msgstr "أضع كمية إلى حساب %(pool_name)"
+msgstr "أضع كمية إلى حساب %(pool_name)s"
 
 #: chezbetty/templates/deposit_edit.jinja2:35
 msgid "Delete Deposit"
@@ -194,52 +194,52 @@ msgstr "إدفع بساي الضو"
 
 #: chezbetty/templates/purchase.jinja2:80
 msgid "Pay With %(pool_name)s Pool"
-msgstr "إدفع بحساب %(pool_name)"
+msgstr "إدفع بحساب %(pool_name)s"
 
 #: chezbetty/templates/user_info.jinja2:6
 msgid "Customer"
-msgstr ""
+msgstr "زبون"
 
 #: chezbetty/templates/user_info.jinja2:11 chezbetty/templates/shame.jinja2:23
 msgid "Name"
-msgstr ""
+msgstr "الإسم"
 
 #: chezbetty/templates/user_info.jinja2:14 chezbetty/templates/shame.jinja2:25
 #: chezbetty/templates/user/deposit_cc.jinja2:23
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:26
 #: chezbetty/templates/user/index.jinja2:18
 msgid "Account Balance"
-msgstr ""
+msgstr "رصيد الحساب"
 
 #: chezbetty/templates/user_info.jinja2:18
 #: chezbetty/templates/user/deposit_cc.jinja2:31
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:33
 msgid "%(pool_name)s Balance"
-msgstr ""
+msgstr "رصيد %(pool_name)s"
 
 #: chezbetty/templates/user_info.jinja2:35
 msgid "Links"
-msgstr ""
+msgstr "رابط"
 
 #: chezbetty/templates/user_info.jinja2:42
 msgid "Account"
-msgstr ""
+msgstr "الحساب"
 
 #: chezbetty/templates/user_info.jinja2:47
 msgid "Logout"
-msgstr ""
+msgstr "الخروج"
 
 #: chezbetty/templates/user_info.jinja2:49
 msgid "Admin"
-msgstr ""
+msgstr "المشرف"
 
 #: chezbetty/templates/base.jinja2:61 chezbetty/templates/base.jinja2:72
 msgid "Hi %(name)s,"
-msgstr ""
+msgstr "مرحباً %(name)s"
 
 #: chezbetty/templates/base.jinja2:62
 msgid "You currently owe Betty %(big_debt)s. That's a lot of money!"
-msgstr ""
+msgstr "أنت مديون إلي بتي %(big_debt)s. هذه كمية كبيرة!"
 
 #: chezbetty/templates/base.jinja2:64
 msgid ""
@@ -247,14 +247,17 @@ msgid ""
 "if people owe Betty lots of money, it's hard to keep things in stock. Please "
 "try to pay Betty back soon!"
 msgstr ""
+"نحن ممتنون أنك تحب بتي. نحن مستعدون أن نضيف إلي خط الكردت، ولاكن اذا "
+"الأشخاص مديونون كثيراً إلي بتي، سوف يكون الأمر صعب أن نملئ المحل. الرجاء حاولو "
+"أن تدفعو إلي بتي قريباً!"
 
 #: chezbetty/templates/base.jinja2:73
 msgid "You currently owe Betty %(debt)s."
-msgstr ""
+msgstr "أنت مديون إلي بتي %(debt)s."
 
 #: chezbetty/templates/base.jinja2:74
 msgid "Please try to pay Betty back soon, thanks!"
-msgstr ""
+msgstr "الرجاء رد ديونك فريباً، شكراً"
 
 #: chezbetty/templates/user.jinja2:14
 msgid "Transaction History"
