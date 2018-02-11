@@ -46,7 +46,7 @@ msgstr "أضع كمية إلي حسابك"
 #: chezbetty/templates/deposit_edit.jinja2:30
 #: chezbetty/templates/deposit.jinja2:30
 msgid "Deposit To %(pool_name)s Pool"
-msgstr "أضع كمية إلى مجموعة %(pool_name)"
+msgstr "أضع كمية إلى حساب %(pool_name)"
 
 #: chezbetty/templates/deposit_edit.jinja2:35
 msgid "Delete Deposit"
@@ -137,64 +137,64 @@ msgstr ""
 #: chezbetty/templates/purchase.jinja2:3 chezbetty/templates/purchase.jinja2:4
 #: chezbetty/templates/user_info.jinja2:39
 msgid "Purchase"
-msgstr ""
+msgstr "أشتري"
 
 #: chezbetty/templates/purchase.jinja2:17
 #: chezbetty/templates/purchase_complete.jinja2:13
 msgid "Order Summary"
-msgstr ""
+msgstr "ملخص الطلب"
 
 #: chezbetty/templates/purchase.jinja2:34 chezbetty/templates/user.jinja2:45
 #: chezbetty/templates/items.jinja2:36 chezbetty/templates/items.jinja2:61
 #: chezbetty/templates/items.jinja2:84
 #: chezbetty/templates/purchase_complete.jinja2:20
 msgid "Item"
-msgstr ""
+msgstr "غرض"
 
 #: chezbetty/templates/purchase.jinja2:35 chezbetty/templates/user.jinja2:46
 #: chezbetty/templates/purchase_complete.jinja2:21
 msgid "Quantity"
-msgstr ""
+msgstr "كمية"
 
 #: chezbetty/templates/purchase.jinja2:36 chezbetty/templates/user.jinja2:47
 #: chezbetty/templates/purchase_complete.jinja2:22
 msgid "Item Price"
-msgstr ""
+msgstr "سعر الغرض"
 
 #: chezbetty/templates/purchase.jinja2:37 chezbetty/templates/user.jinja2:48
 #: chezbetty/templates/purchase_complete.jinja2:23
 msgid "Total Price"
-msgstr ""
+msgstr "السعر الشامل"
 
 #: chezbetty/templates/purchase.jinja2:47
 msgid "Order Empty"
-msgstr ""
+msgstr "الطلب فارغ"
 
 #: chezbetty/templates/purchase.jinja2:48
 msgid "Scan an item to begin"
-msgstr ""
+msgstr "إفحص الغرض بالمكنة لكي تبدأ"
 
 #: chezbetty/templates/purchase.jinja2:57 chezbetty/templates/user.jinja2:67
 #: chezbetty/templates/purchase_complete.jinja2:42
 msgid "Subtotal"
-msgstr ""
+msgstr "السعر الجزئي"
 
 #: chezbetty/templates/purchase.jinja2:61
 msgid "Good Standing Discount"
-msgstr ""
+msgstr "خصم وضع جيد"
 
 #: chezbetty/templates/purchase.jinja2:67 chezbetty/templates/user.jinja2:76
 #: chezbetty/templates/purchase_complete.jinja2:53
 msgid "Total"
-msgstr ""
+msgstr "المبلغ الكامل"
 
 #: chezbetty/templates/purchase.jinja2:78
 msgid "Pay With Your User Account"
-msgstr ""
+msgstr "إدفع بساي الضو"
 
 #: chezbetty/templates/purchase.jinja2:80
 msgid "Pay With %(pool_name)s Pool"
-msgstr ""
+msgstr "إدفع بحساب %(pool_name)"
 
 #: chezbetty/templates/user_info.jinja2:6
 msgid "Customer"
