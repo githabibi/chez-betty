@@ -632,31 +632,31 @@ msgstr ""
 
 #: chezbetty/templates/index.jinja2:12
 msgid "Welcome to Chez Betty!"
-msgstr ""
+msgstr "مرحباً إلي تشيز بتي!"
 
 #: chezbetty/templates/index.jinja2:13
 msgid "The 24/7 food co-op for all members of the CSE community."
-msgstr ""
+msgstr "محل طعام 24/7 لكل أعضاء ال سي إس إي"
 
 #: chezbetty/templates/index.jinja2:18
 msgid "Swipe your M-Card to login"
-msgstr ""
+msgstr "مرر كرتك ال إم كارد لكي تسجل الدخول"
 
 #: chezbetty/templates/index.jinja2:24
 msgid "Item List"
-msgstr ""
+msgstr "قائة الأغراَض"
 
 #: chezbetty/templates/index.jinja2:26
 msgid "About"
-msgstr ""
+msgstr "عن"
 
 #: chezbetty/templates/index.jinja2:30
 msgid "Administration"
-msgstr ""
+msgstr "الإدارة"
 
 #: chezbetty/templates/index.jinja2:62
 msgid "Can you help translate Betty? E-mail chez-betty@umich.edu."
-msgstr ""
+msgstr "هل يكمنك مساعدة ترجمة بتي؟ إبعت بريد إليكتروني إلي chez-betty@umich.edu."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:4
 #: chezbetty/templates/user/deposit_cc.jinja2:7
