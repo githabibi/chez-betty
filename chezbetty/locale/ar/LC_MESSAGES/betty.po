@@ -504,7 +504,7 @@ msgstr ""
 #: chezbetty/templates/shame.jinja2:2 chezbetty/templates/shame.jinja2:3
 #: chezbetty/templates/index.jinja2:27
 msgid "Wall of Shame"
-msgstr "حائت الخجل"
+msgstr "حائط الخجل"
 
 #: chezbetty/templates/shame.jinja2:13
 msgid "These users owe Chez Betty more than $5."
