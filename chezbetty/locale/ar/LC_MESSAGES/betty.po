@@ -112,7 +112,7 @@ msgstr "نقداَ"
 
 #: chezbetty/templates/deposit.jinja2:22
 msgid "Your Deposit Limit: %(limit)s"
-msgstr ""
+msgstr "حد كمية الوضع لك: %(limit)s"
 
 #: chezbetty/templates/deposit.jinja2:45
 msgid "Bitcoin"
@@ -261,53 +261,53 @@ msgstr "الرجاء رد ديونك فريباً، شكراً"
 
 #: chezbetty/templates/user.jinja2:14
 msgid "Transaction History"
-msgstr ""
+msgstr "تاريخ التعامل"
 
 #: chezbetty/templates/user.jinja2:32
 msgid "Purchase totaling %(amount)s"
-msgstr ""
+msgstr "مجموع الشراء %(amount)s"
 
 #: chezbetty/templates/user.jinja2:33 chezbetty/templates/user.jinja2:101
 #: chezbetty/templates/user.jinja2:110
 msgid "touch to show"
-msgstr ""
+msgstr "إلمس لكي تري"
 
 #: chezbetty/templates/user.jinja2:34
 msgid "touch to hide"
-msgstr ""
+msgstr "إلمس لكي تخبي"
 
 #: chezbetty/templates/user.jinja2:71
 #: chezbetty/templates/purchase_complete.jinja2:46
 msgid "Discounts"
-msgstr ""
+msgstr "تخفيضات"
 
 #: chezbetty/templates/user.jinja2:86
 msgid "Deposit of %(amount)s"
-msgstr ""
+msgstr "وضع كمية %(amount)s"
 
 #: chezbetty/templates/user.jinja2:93
 msgid "Credit Card Deposit of %(amount)s"
-msgstr ""
+msgstr "كمية كرت كردت الموضوعة %(amount)s"
 
 #: chezbetty/templates/user.jinja2:94
 msgid "Card ending in %(last4)s"
-msgstr ""
+msgstr "اخر ارقام الكرت $(last4)s"
 
 #: chezbetty/templates/user.jinja2:101
 msgid "Adjustment of %(amount)s by %(admin_name)s "
-msgstr ""
+msgstr "تغير بكمية %(amount)s من $(admmin_name)s"
 
 #: chezbetty/templates/user.jinja2:110
 msgid "BTC Deposit of %(amount_in_usd)s (%(amount_in_btc)s) "
-msgstr ""
+msgstr "وضع كميو بي تي سي %(amount_in_usd)s (%(amount_in_btc)s)"
 
 #: chezbetty/templates/user.jinja2:126
 msgid "No transactions."
-msgstr ""
+msgstr "لا تعاملات"
 
 #: chezbetty/templates/user.jinja2:130
 msgid "Show All"
-msgstr ""
+msgstr "إري الكل"
 
 #: chezbetty/templates/about.jinja2:2 chezbetty/templates/about.jinja2:3
 msgid "About Chez Betty"
@@ -504,107 +504,107 @@ msgstr ""
 #: chezbetty/templates/shame.jinja2:2 chezbetty/templates/shame.jinja2:3
 #: chezbetty/templates/index.jinja2:27
 msgid "Wall of Shame"
-msgstr ""
+msgstr "حائت الخجل"
 
 #: chezbetty/templates/shame.jinja2:13
 msgid "These users owe Chez Betty more than $5."
-msgstr ""
+msgstr "هاولاء الأعضاء مديونون أكثر من $5 إلا تشيز بتي"
 
 #: chezbetty/templates/shame.jinja2:17
 msgid "Users in Debt"
-msgstr ""
+msgstr "الأعضاء في الدين"
 
 #: chezbetty/templates/shame.jinja2:24
 msgid "uniqname"
-msgstr ""
+msgstr "يونيكنيم"
 
 #: chezbetty/templates/deposit_complete.jinja2:20
 msgid "Old Balance"
-msgstr ""
+msgstr "الرصسد القديم"
 
 #: chezbetty/templates/deposit_complete.jinja2:23
 msgid "Deposit Amount"
-msgstr ""
+msgstr "الكمية الموضوعة"
 
 #: chezbetty/templates/deposit_complete.jinja2:26
 msgid "New Balance"
-msgstr ""
+msgstr "الرصيد الجديد"
 
 #: chezbetty/templates/deposit_complete.jinja2:29
 msgid "Transaction"
-msgstr ""
+msgstr "تعامل"
 
 #: chezbetty/templates/deposit_complete.jinja2:35
 msgid "Thank you!"
-msgstr ""
+msgstr "شكراً!"
 
 #: chezbetty/templates/deposit_complete.jinja2:38
 msgid "You successfully deposited %(amount)s into your account"
-msgstr ""
+msgstr "لقد تممت وضع كمية %(amount)s في حسابك"
 
 #: chezbetty/templates/deposit_complete.jinja2:41
 msgid "You successfully deposited %(amount)s in the %(pool_name)s Pool"
-msgstr ""
+msgstr "لقد تممت وضع كمية %(amount)s في مجموعة %(pool_name)s"
 
 #: chezbetty/templates/deposit_complete.jinja2:50
 msgid "Edit this Deposit"
-msgstr ""
+msgstr "غير الكمية الموضوعه"
 
 #: chezbetty/templates/items.jinja2:2 chezbetty/templates/items.jinja2:13
 msgid "Items"
-msgstr ""
+msgstr "الأغراض"
 
 #: chezbetty/templates/items.jinja2:3
 msgid "Items at Chez Betty"
-msgstr ""
+msgstr "الأراض في تشيز بتي"
 
 #: chezbetty/templates/items.jinja2:7
 msgid "All that Betty has to offer."
-msgstr ""
+msgstr "كل ما عند بتي."
 
 #: chezbetty/templates/items.jinja2:20 chezbetty/templates/index.jinja2:25
 msgid "Request an Item"
-msgstr ""
+msgstr "طلي غرض"
 
 #: chezbetty/templates/items.jinja2:22
 msgid "Touch columns to change sort order."
-msgstr ""
+msgstr "إلمس عاومد لكي تغير الترتيب."
 
 #: chezbetty/templates/items.jinja2:25
 msgid "Top"
-msgstr ""
+msgstr "إلي اول الصفحة"
 
 #: chezbetty/templates/items.jinja2:26
 msgid "Up"
-msgstr ""
+msgstr "إلي فوق"
 
 #: chezbetty/templates/items.jinja2:27
 msgid "Down"
-msgstr ""
+msgstr "إلي الأسفل"
 
 #: chezbetty/templates/items.jinja2:28
 msgid "Bottom"
-msgstr ""
+msgstr "إلي أخر الصفحة"
 
 #: chezbetty/templates/items.jinja2:37
 msgid "In Stock"
-msgstr ""
+msgstr "يوجد"
 
 #: chezbetty/templates/items.jinja2:38
 msgid "Wholesale"
-msgstr ""
+msgstr "الجملة"
 
 #: chezbetty/templates/items.jinja2:39
 msgid "Price"
-msgstr ""
+msgstr "السعر"
 
 #: chezbetty/templates/items.jinja2:56
 msgid "Temporarily Out-of-Stock Items:"
-msgstr ""
+msgstr "الأغراض الغير موجودة مؤقتا:"
 
 #: chezbetty/templates/items.jinja2:75
 msgid "Discontinued Items:"
-msgstr ""
+msgstr "الأغراض المنوقفة:"
 
 #: chezbetty/templates/items.jinja2:77
 msgid ""
@@ -612,23 +612,25 @@ msgid ""
 "more. If you would like to request the return ofa discontinued item, please "
 "e-mail chez-betty@umich.edu."
 msgstr ""
+"بتي يلغ الأغراض التي لا ابيع جيداً أو لا نستطيع شرائها. اذا تريد أن تطلب عودة "
+"غرض، إبعت لنا بريد إليكنروني علي chez-betty@umich.edu."
 
 #: chezbetty/templates/purchase_complete.jinja2:3
 #: chezbetty/templates/purchase_complete.jinja2:4
 msgid "Purchase Complete"
-msgstr ""
+msgstr "تمم الشراء"
 
 #: chezbetty/templates/purchase_complete.jinja2:55
 msgid "(Paid with your user account)"
-msgstr ""
+msgstr ")دفع بحسابك("
 
 #: chezbetty/templates/purchase_complete.jinja2:57
 msgid "(Paid with %(pool_name)s Pool)"
-msgstr ""
+msgstr ")دفع بجموعة %(pool_name)s("
 
 #: chezbetty/templates/purchase_complete.jinja2:68
 msgid "If this was a mistake, touch here to undo this transaction."
-msgstr ""
+msgstr "إذا هذه مشكلة، إلمس  هنا لكي تلغي هذا التعال."
 
 #: chezbetty/templates/index.jinja2:12
 msgid "Welcome to Chez Betty!"
@@ -661,22 +663,22 @@ msgstr "هل يكمنك مساعدة ترجمة بتي؟ إبعت بريد إل�
 #: chezbetty/templates/user/deposit_cc.jinja2:4
 #: chezbetty/templates/user/deposit_cc.jinja2:7
 msgid "Credit Card Deposit"
-msgstr ""
+msgstr "وضع كمية كرت الكردت"
 
 #: chezbetty/templates/user/deposit_cc.jinja2:14
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:14
 msgid "We use stripe to process credit card transactions."
-msgstr ""
+msgstr "نحن نستعل ستريب لكي نسير تعامل كرت الكردت."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:15
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:15
 msgid "Stripe charges 2.9% + $0.30 for each transaction."
-msgstr ""
+msgstr "ستريب يفرض رسوم 2.9% + $0.30 لكل تعامب."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:16
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:16
 msgid "We pass this charge directly onto you."
-msgstr ""
+msgstr "نحن نفرض هذا الرسم عليك."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:17
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:17
@@ -684,12 +686,14 @@ msgid ""
 "That is, if you wish to deposit $20 to your account, we will charge your "
 "card 20 + (20*0.029 + 0.30) = $20.88."
 msgstr ""
+"مثلاً، إذا أردت أن تضع كمية $20 إلي حسابك، سوف نوجب علي "
+"كرتك 20 + (20*0.029 + 0.30) = $20.88."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:48
 msgid "User Account"
-msgstr ""
+msgstr "حساب العضو"
 
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:4
 #: chezbetty/templates/user/deposit_cc_custom.jinja2:7
 msgid "Custom Credit Card Deposit"
-msgstr ""
+msgstr "وضع كمية كرت كردت محددة"
