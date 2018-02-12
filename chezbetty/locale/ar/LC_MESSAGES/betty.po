@@ -311,7 +311,7 @@ msgstr "إري الكل"
 
 #: chezbetty/templates/about.jinja2:2 chezbetty/templates/about.jinja2:3
 msgid "About Chez Betty"
-msgstr ""
+msgstr "عن تشيز بتي"
 
 #: chezbetty/templates/about.jinja2:8
 msgid ""
@@ -319,46 +319,49 @@ msgid ""
 "faculty, and staff in Computer Science at the University of Michigan. The "
 "name \"Chez Betty\" is an homage to Chez Bob, a similar system at UCSD."
 msgstr ""
+"تشيز بتي هو محل طعام تعاوني علي نظام الشرف لطلاب الدراسة العية، المدرسين، "
+"والعملاء في علم الكمبيوتر في جامعة متشيجن. الإسم \"تشسز بتي\" هو إسم بشرف "
+"تشيز بوب، نظام شبيه في يو سي إس دي."
 
 #: chezbetty/templates/about.jinja2:16
 msgid "FAQ"
-msgstr ""
+msgstr "التعليمات"
 
 #: chezbetty/templates/about.jinja2:18
 msgid "Touch questions to show/hide."
-msgstr ""
+msgstr "إلمس الإسئلة لكي تراهم/تخبئه."
 
 #: chezbetty/templates/about.jinja2:22
 msgid "Who are the awesome people who run Chez Betty?"
-msgstr ""
+msgstr "من هم الأناس الرائعون الذين يديرون تشيز بتي؟"
 
 #: chezbetty/templates/about.jinja2:24
 msgid "Chez Betty is run by CSEG, the CSE graduate student group."
-msgstr ""
+msgstr "تشيز بتي مدار من سي إس أي دجي، مجموعة سي إس إي لطلاب الدراسات العليا."
 
 #: chezbetty/templates/about.jinja2:25
 msgid ""
 "Currently, Betty is primarily maintained by Brad Campbell, Pat Pannuto, and "
 "Zakir Durumeriç"
-msgstr ""
+msgstr "حالياً، بتي يعتني من براد كامبيل، بات بانوتو، و زاكر دورميرك"
 
 #: chezbetty/templates/about.jinja2:28
 msgid "How to Use Betty like a Pro"
-msgstr ""
+msgstr "كبف تستعمل بتي بمهارة"
 
 #: chezbetty/templates/about.jinja2:30
 msgid "Keep a positive balance."
-msgstr ""
+msgstr "حافظ علي رصيد جيد."
 
 #: chezbetty/templates/about.jinja2:31
 msgid ""
 "Tracking down debtors sucks for us and for you. You don't want to end up on "
 "the Wall of Shame!"
-msgstr ""
+msgstr "إتباع المديونون غير ممتع لنا ولك. أنت لاتريد أن تكون علي حائطة العار!"
 
 #: chezbetty/templates/about.jinja2:33
 msgid "Take advantage of the Bank of Betty."
-msgstr ""
+msgstr "إستفيد من بنك بتي."
 
 #: chezbetty/templates/about.jinja2:34
 msgid ""
@@ -366,10 +369,12 @@ msgid ""
 "$20 to use until that runs out. Remembering cash every time you want to use "
 "Betty is no fun."
 msgstr ""
+"مستخدميننا الدائمون عادتاً يضعون $100 مرة كل سنة لاتقريب. معذم المستعمليت يضعو "
+"$20 ويستعملوهه حتي تنتهي. تذكر التقود كل مرة تريد إستخدام بتي غير ممتع."
 
 #: chezbetty/templates/about.jinja2:36
 msgid "Help restock."
-msgstr ""
+msgstr "ساعد ملء المخزون."
 
 #: chezbetty/templates/about.jinja2:37
 msgid ""
@@ -377,60 +382,65 @@ msgid ""
 "put a warm one in to get cold (though, don't put it in front!). If you "
 "finish a box of food, grab a full box and replace it."
 msgstr ""
+"بتي مدار من متطوعين عنجهم وقت محدود. إذ أخذت مشروب بارد، ضع مشروب ساخن بدلة "
+"لكي يبرد )لكن لا تضع المشروب في الأمام!( إذ أنت إنتهيت صنندوق طعام، بدلة "
+"بصندوق أخر."
+
 
 #: chezbetty/templates/about.jinja2:42
 msgid "How do I buy things from Chez Betty?"
-msgstr ""
+msgstr "كيف أشتري أشياء من بتي؟"
 
 #: chezbetty/templates/about.jinja2:45
 msgid "Log in to Chez Betty by swiping your MCard at the terminal."
-msgstr ""
+msgstr "سجل الدخول إلي تشيز بتي بتمرير كرتك الإمكارد في الترمينال."
 
 #: chezbetty/templates/about.jinja2:47
 msgid "Accounts are tied to your UMID."
-msgstr ""
+msgstr "الأحسبة مربوطه رقم ال يو إم أي دي."
 
 #: chezbetty/templates/about.jinja2:48
 msgid ""
 "A new account is automatically created for first-time users on the the fly "
 "the first time you log in."
 msgstr ""
+"حساب جديد يكون لك تلقائاً أول مرة تسجل الدخول."
 
 #: chezbetty/templates/about.jinja2:50
 msgid "Look at your Account Balance. If you're low, deposit some money."
-msgstr ""
+msgstr "أنظر إلي حسابك. إذ كان قليل، ضع نقود."
 
 #: chezbetty/templates/about.jinja2:52
 msgid ""
 "Every user has an account with Chez Betty that keeps track of how much money "
 "they've put in."
-msgstr ""
+msgstr "كل عضو عنده حساب مع تشيز بتي يحفظ كمية النقود التي وضعتها فيه."
 
 #: chezbetty/templates/about.jinja2:53
 msgid ""
 "Betty doesn't make change, instead excess money stays in your account for "
 "your next transaction."
-msgstr ""
+msgstr "بتي لا يعطي الباقي، إنه يضع النقود الزائدة في حسابك لتعاملك القادم."
 
 #: chezbetty/templates/about.jinja2:54
 msgid "You can run into the red, see below."
-msgstr ""
+msgstr "يمكنك أن تكمل إلي الأحمر، إنظر أسفلاً."
 
 #: chezbetty/templates/about.jinja2:56
 msgid "Grab what you'd like from Chez Betty and scan your items."
-msgstr ""
+msgstr "خذ ما تريد من تشيز بتي و إفحص أغراضك بالمكينة."
 
 #: chezbetty/templates/about.jinja2:57
 msgid "Touch \"Submit Purchase\" and you're done!"
-msgstr ""
+msgstr "إلمس \"ٍSubmit Purchase\" ولضد إنتهيت!"
 
 #: chezbetty/templates/about.jinja2:61
 msgid "Wait... Couldn't people steal from this really easily?"
-msgstr ""
+msgstr "إصتتر... ألا يمكن أن يسرقو التاس بسهولة؟"
 
 #: chezbetty/templates/about.jinja2:63
 msgid "Yes. (But please don't)."
-msgstr ""
+msgstr "نعم. )لكم الرجاء لا تسرقو(."
 
 #: chezbetty/templates/about.jinja2:64
 msgid ""
@@ -442,7 +452,7 @@ msgstr ""
 
 #: chezbetty/templates/about.jinja2:67
 msgid "Tell me more about my Chez Betty account?"
-msgstr ""
+msgstr "قلي المزيد عن حساب تشيز بتي؟"
 
 #: chezbetty/templates/about.jinja2:69
 msgid ""
@@ -451,10 +461,13 @@ msgid ""
 "that each user has an account with Betty. You can put in $20 (or however "
 "much) at a time and use that balance until it runs out."
 msgstr ""
+"تشسز بتي يبيع الأشياء بسعر فريب الإنتاج )عادتاً قرب 15% من سعر الإنتاج(. لأن لا "
+"أحد يريد الاقي و تشيز بتي هو نظام إخدم نفسك بنفسك، تم إعداده لكي كب عضو عنده "
+"حساب مع بتي. يمكنك تضع كمية $20، أو أي كمية، في أي وقت و تستعمله حتي يتنهي."
 
 #: chezbetty/templates/about.jinja2:75
 msgid "What if I don't have any money / Can my account balance go negative?"
-msgstr ""
+msgstr "إذ ليس عندي نقود / هل يمكن حسابي ينزل تحت الصفر؟"
 
 #: chezbetty/templates/about.jinja2:77
 msgid ""
@@ -464,10 +477,14 @@ msgid ""
 "incentivizing folks to steal. There is a <a href=\"/shame\">Wall of Shame</"
 "a> for persons who owe Betty more than $5."
 msgstr ""
+"نعم. تشيز بتي يسمح لك أن تنفق أكثر من ما في حسابك علي الإفتراد أن الدين سوف "
+"يرد. الفكره أنكم لتأذو أين تحتاجو و تتذكرو الدين، بدلاً من أن تحفذ السرقة. "
+"هناك <a href=\"/shame\">حائط العار</a> لكل شخص مديون لبتي أكثر من $5."
+
 
 #: chezbetty/templates/about.jinja2:85
 msgid "How does Betty set prices?"
-msgstr ""
+msgstr "كيف بتي يسعر؟"
 
 #: chezbetty/templates/about.jinja2:87
 msgid ""
@@ -475,16 +492,18 @@ msgid ""
 "interested in the actual algorithm, check out Betty's source code at github."
 "com/um-cseg/chez-betty."
 msgstr ""
+"بتي يبيع أشياء فقط فوق الجملة، عادتاً 15% فوق سعر الإنتاج. إذ أنت "
+"راغب في الحل الحسابي، إنظر إلي مصدر بتي علي github.com/um-cseg/chez-betty."
 
 #: chezbetty/templates/about.jinja2:90
 msgid ""
 "Current wholesale and Betty prices are always available on <a href=\"/items"
 "\">the items page</a>."
-msgstr ""
+msgstr "أسعار الجملة و بتي موجودون علي <a href=\"/items\">صفحة الأغراض</a>."
 
 #: chezbetty/templates/about.jinja2:93
 msgid "What does Betty do with her profits?"
-msgstr ""
+msgstr "مذا يفعل بتي بالأرلاح؟"
 
 #: chezbetty/templates/about.jinja2:95
 msgid ""
@@ -494,17 +513,21 @@ msgid ""
 "g. new ping pong paddles and balls), or to throw events (e.g. bar nights) "
 "for CSEG."
 msgstr ""
+"أولاً،يجب علي بتب أن تدفع ديونها )مثلاً أي خسائر من اعضاء تشيز بتي "
+"المخادغين(. ثم بعد، أرباح بتي ينتقلون إلي صندوق ال دجي إس إي يس العام "
+"هذه النقود تستخدم لتحسن بتي، لشراء أشياء متعديدة )مثلاً شراء مضارب وكمر بينج "
+"بونج(، أو لترتيب احداث )مثلاً ليال البار( لل سي إس إي جي."
 
 #: chezbetty/templates/about.jinja2:100
 msgid ""
 "If you have more questions / concerns, please feel free to talk to the CSEG "
 "officers."
-msgstr ""
+msgstr "إذا لديك أسئلة أخري / مشاكل، الرجاء تحدث مع موظفي ال يس إس إي جي."
 
 #: chezbetty/templates/shame.jinja2:2 chezbetty/templates/shame.jinja2:3
 #: chezbetty/templates/index.jinja2:27
 msgid "Wall of Shame"
-msgstr "حائط الخجل"
+msgstr "حائط العار"
 
 #: chezbetty/templates/shame.jinja2:13
 msgid "These users owe Chez Betty more than $5."
@@ -638,7 +661,7 @@ msgstr "مرحباً إلي تشيز بتي!"
 
 #: chezbetty/templates/index.jinja2:13
 msgid "The 24/7 food co-op for all members of the CSE community."
-msgstr "محل طعام 24/7 لكل أعضاء ال سي إس إي"
+msgstr "محل غذاء تعاوني 24/7 لكل أعضاء ال سي إس إي"
 
 #: chezbetty/templates/index.jinja2:18
 msgid "Swipe your M-Card to login"
