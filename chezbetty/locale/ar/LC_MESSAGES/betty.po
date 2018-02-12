@@ -132,7 +132,7 @@ msgid ""
 "in your browser."
 msgstr ""
 "لكي تضع كمية بكرت الكريدت، الرجاء زيارة chezbetty.eecs.umichedu/user "
-"متصفحك."
+"علي متصفحك."
 
 #: chezbetty/templates/purchase.jinja2:3 chezbetty/templates/purchase.jinja2:4
 #: chezbetty/templates/user_info.jinja2:39
@@ -307,7 +307,7 @@ msgstr "لا تعاملات"
 
 #: chezbetty/templates/user.jinja2:130
 msgid "Show All"
-msgstr "إري الكل"
+msgstr "أري الكل"
 
 #: chezbetty/templates/about.jinja2:2 chezbetty/templates/about.jinja2:3
 msgid "About Chez Betty"
@@ -319,7 +319,7 @@ msgid ""
 "faculty, and staff in Computer Science at the University of Michigan. The "
 "name \"Chez Betty\" is an homage to Chez Bob, a similar system at UCSD."
 msgstr ""
-"تشيز بتي هو محل طعام تعاوني علي نظام الشرف لطلاب الدراسة العية، المدرسين، "
+"تشيز بتي هو محل طعام تعاوني علي نظام الشرف لطلاب الدراسة العلية، المدرسين، "
 "والعملاء في علم الكمبيوتر في جامعة متشيجن. الإسم \"تشسز بتي\" هو إسم بشرف "
 "تشيز بوب، نظام شبيه في يو سي إس دي."
 
@@ -587,7 +587,7 @@ msgstr "كل ما عند بتي."
 
 #: chezbetty/templates/items.jinja2:20 chezbetty/templates/index.jinja2:25
 msgid "Request an Item"
-msgstr "طلي غرض"
+msgstr "طلب غرض"
 
 #: chezbetty/templates/items.jinja2:22
 msgid "Touch columns to change sort order."
