@@ -503,7 +503,7 @@ msgstr "أسعار الجملة و بتي موجودون علي <a href=\"/items
 
 #: chezbetty/templates/about.jinja2:93
 msgid "What does Betty do with her profits?"
-msgstr "مذا يفعل بتي بالأرلاح؟"
+msgstr "مذا يفعل بتي بالأرباح؟"
 
 #: chezbetty/templates/about.jinja2:95
 msgid ""
@@ -513,7 +513,7 @@ msgid ""
 "g. new ping pong paddles and balls), or to throw events (e.g. bar nights) "
 "for CSEG."
 msgstr ""
-"أولاً،يجب علي بتب أن تدفع ديونها )مثلاً أي خسائر من اعضاء تشيز بتي "
+"أولاً،يجب علي بتي أن تدفع ديونها )مثلاً أي خسائر من اعضاء تشيز بتي "
 "المخادغين(. ثم بعد، أرباح بتي ينتقلون إلي صندوق ال دجي إس إي يس العام "
 "هذه النقود تستخدم لتحسن بتي، لشراء أشياء متعديدة )مثلاً شراء مضارب وكمر بينج "
 "بونج(، أو لترتيب احداث )مثلاً ليال البار( لل سي إس إي جي."
@@ -579,7 +579,7 @@ msgstr "الأغراض"
 
 #: chezbetty/templates/items.jinja2:3
 msgid "Items at Chez Betty"
-msgstr "الأراض في تشيز بتي"
+msgstr "الأغراض في تشيز بتي"
 
 #: chezbetty/templates/items.jinja2:7
 msgid "All that Betty has to offer."
