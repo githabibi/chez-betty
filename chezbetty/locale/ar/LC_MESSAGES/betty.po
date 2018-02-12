@@ -449,6 +449,9 @@ msgid ""
 "used to cover the inevitable losses. If too many people take advantage of "
 "Betty's trusting nature, the service will have to shut down :(."
 msgstr ""
+"الفكة هي أن نجعل مجال مناسب لأعضائ ال يو إم سي إس إي. بتي يربح قليلاً من كب "
+"بيعة، بعض منها يشمل الخسائر. إذ أشخاص كثيرة إستغلو ثقة بتي، الخدمة سوف "
+"تنتهي :(."
 
 #: chezbetty/templates/about.jinja2:67
 msgid "Tell me more about my Chez Betty account?"
